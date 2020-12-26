@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import './scss/main.scss'
+
 // eslint-disable-next-line import/extensions
 import App from './components/App.jsx';
 
