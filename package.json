@@ -9,7 +9,6 @@
   },
   "author": "Edy Gunawan",
   "license": "ISC",
-  "homepage": "https://github.com/AllInOneYT/dprd#readme",
   "devDependencies": {
     "@babel/core": "^7.12.7",
     "@babel/plugin-transform-runtime": "^7.12.1",
